@@ -1,0 +1,44 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+
+  
+}
+
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  border: solid 1px rgb(13, 13, 14);
+  width: 25rem;
+  height: 40rem;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color:rgb(239, 243, 241)
+}
+
+.estilo{
+  width: 35rem;
+  height: 50rem;
+  background-color: #a0e69a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
