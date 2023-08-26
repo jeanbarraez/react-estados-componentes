@@ -28,7 +28,7 @@ const Formularios = ({setmens}) => {
       : setmens({
           error: false,
           mensaje: "Cuenta Creada Exitasamente, Gracias",
-          color: "success",
+          color: "warning",
         });
 
     if (validarContrasena) {
